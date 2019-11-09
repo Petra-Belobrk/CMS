@@ -1,0 +1,11 @@
+.pager li .active_link {
+    background: #f2f2f2;
+}
+
+span.glyphicon.glyphicon-thumbs-up {
+    font-size: 22px;
+}
+
+p.likes {
+    font-size: 15px;
+}
